@@ -1,0 +1,26 @@
+thead{
+    background-color: blueviolet;
+    border: 2px solid red;
+}
+.code{
+    font-family:monospace ;
+    background-color: beige;
+}
+table{
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: violet;
+    
+}
+td{
+    border: 2px solid blueviolet;
+    
+}
+body{
+    text-align: center;
+    background-color: teal;
+}
+h1{
+    color:
+}
